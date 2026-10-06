@@ -9,7 +9,7 @@
 | 项 | 内容 |
 |----|------|
 | 在线访问链接 | `https://xff8mu.pub.atoms.world/` |
-| 代码仓库链接 | `<GitHub 仓库地址>` |
+| 代码仓库链接 | `https://github.com/rocorpeng/PromptForge` |
 | 文档权限 | 公开（public） |
 | 项目类型 | 全栈 Web 应用（React + Vite / FastAPI on Atoms Cloud） |
 
